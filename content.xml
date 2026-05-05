@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505213027V0G20E</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605052130276A2ECQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Biolonombres</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Enrique Martínez Nieto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje en colaboración con la materia de Biología y Geología de 6 sesiones de duración .</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777998389793</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosep6lr-2p43znwje</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosep6lr-2p43znwje</odePageId>
+      <odeBlockId>block-1777972166616-wwttwsfzc</odeBlockId>
+      <blockName>Datos básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6lr-2p43znwje</odePageId>
+          <odeBlockId>block-1777972166616-wwttwsfzc</odeBlockId>
+          <odeIdeviceId>idevice-1777972166614-uk34tpgrc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Esta Situación de Aprendizaje (SdA) está <strong>dirigida</strong> al alumnado de <strong>3º de ESO </strong>de las asignaturas de <strong>Tecnología y Digitalización II</strong>, así como <strong>Biología y Geología</strong>. Se trata de una colaboración en la cual se desarrollarán y emplearán habilidades y herramientas propias de la primera materia, en tanto se trabajan contenidos propios de la segunda.</li>
+<li>Dado lo limitado del alumnado (tres personas) los <strong>agrupamientos</strong> serán dos: <strong>gran grupo</strong> e <strong>individual</strong>.</li>
+<li>La SdA tendrá una <strong>duración</strong> de <strong>6 sesiones</strong>, distribuidas de la siguiente manera:
+<ul>
+<li>Introducción, reparto de tareas y planificación de las mismas de forma grupal (1 sesión).</li>
+<li>Trabajo autónomo individual en las tareas asignadas (2 sesiones).</li>
+<li>Coevaluación del trabajo desarrollado hasta el momento (1 sesión).</li>
+<li>Ultimación de las tareas individualmente, incorporando las críticas recibidas (2 sesiones)</li>
+</ul>
+</li>
+<li>El alumnado realizará <strong>tres productos finales</strong>. Todos ellos servirán para ayudar en el estudia de los mismos contenidos de la asignatura de biología, pero los presentarán de manera diferente, aprovechando las posibildades de cada una de las herramientas empleadas. Estos productos serán:
+<ul>
+<li>Una <strong>infografía</strong> interactiva, realizada en la plataforma <strong>Genial.ly</strong> .</li>
+<li>Un <strong>videojuego</strong> codificado con <strong>Scratch</strong>.</li>
+<li>Un <strong>electro</strong>: un tablero con láminas intercambiables y dos punteros que cierren un circuito al coincidir correctamente, encendiendo una luz y/o emitiendo un sonido; se realizará en el <strong>taller de Tecnología</strong>.</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972166614-uk34tpgrc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Esta Situación de Aprendizaje (SdA) está <strong>dirigida</strong> al alumnado de <strong>3º de ESO </strong>de las asignaturas de <strong>Tecnología y Digitalización II</strong>, así como <strong>Biología y Geología</strong>. Se trata de una colaboración en la cual se desarrollarán y emplearán habilidades y herramientas propias de la primera materia, en tanto se trabajan contenidos propios de la segunda.</li>\n<li>Dado lo limitado del alumnado (tres personas) los <strong>agrupamientos</strong> serán dos: <strong>gran grupo</strong> e <strong>individual</strong>.</li>\n<li>La SdA tendrá una <strong>duración</strong> de <strong>6 sesiones</strong>, distribuidas de la siguiente manera:\n<ul>\n<li>Introducción, reparto de tareas y planificación de las mismas de forma grupal (1 sesión).</li>\n<li>Trabajo autónomo individual en las tareas asignadas (2 sesiones).</li>\n<li>Coevaluación del trabajo desarrollado hasta el momento (1 sesión).</li>\n<li>Ultimación de las tareas individualmente, incorporando las críticas recibidas (2 sesiones)</li>\n</ul>\n</li>\n<li>El alumnado realizará <strong>tres productos finales</strong>. Todos ellos servirán para ayudar en el estudia de los mismos contenidos de la asignatura de biología, pero los presentarán de manera diferente, aprovechando las posibildades de cada una de las herramientas empleadas. Estos productos serán:\n<ul>\n<li>Una <strong>infografía</strong> interactiva, realizada en la plataforma <strong>Genial.ly</strong> .</li>\n<li>Un <strong>videojuego</strong> codificado con <strong>Scratch</strong>.</li>\n<li>Un <strong>electro</strong>: un tablero con láminas intercambiables y dos punteros que cierren un circuito al coincidir correctamente, encendiendo una luz y/o emitiendo un sonido; se realizará en el <strong>taller de Tecnología</strong>.</li>\n</ul>\n</li>\n</ul>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosep6lr-b0in50jjk</odePageId>
+  <odeParentPageId>page-mosep6lr-2p43znwje</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosep6lr-b0in50jjk</odePageId>
+      <odeBlockId>block-mosep6lu-76qok3400</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6lr-b0in50jjk</odePageId>
+          <odeBlockId>block-mosep6lu-76qok3400</odeBlockId>
+          <odeIdeviceId>idevice-mosep6lu-x13spzqtp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosep6lr-b0in50jjk</odePageId>
+      <odeBlockId>block-1777989073611-cg8gnodwt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6lr-b0in50jjk</odePageId>
+          <odeBlockId>block-1777989073611-cg8gnodwt</odeBlockId>
+          <odeIdeviceId>idevice-1777989073608-8sn1z6ze9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4>Justificación e impacto esperado</h4>
+<p>La Situación de Aprendizaje surge de la <strong>necesidad del Departamento de Ciencias Naturales</strong> de tener una serie de recursos didácticos para el aprendizaje de diferentes nomenclaturas morfológicas, como partes de las células, del cuerpo humano, etcétera. Con la culminación de la misma, se espera que el alumnado no sólo haya trabajado las <strong>competencias</strong> correspondientes de ambas materias, sino también adquirido los <strong>conocimientos</strong> teóricos mencionados de una manera más entretenida y eficaz.</p>
+<h4>Relación con los ODS y Retos del S. XXI</h4>
+<p>Los <strong>Objetivos de Desarrollo Sostenible</strong> involucrados son:</p>
+<ul>
+<li><strong>ODS 3 - Salud y bienestar: </strong>El conocimiento de los contenidos teóricos de la materia de Biología está en línea con la consecución de una mejora en la salud.</li>
+<li><strong>ODS 4 - Educación de calidad</strong>: La elaboración de los recursos didácticos mejorará la calidad de la educación de quienes vengan detrás.</li>
+<li><strong>ODS 10 - Reducción de las desigualdades</strong>: Haciendo públicos y accesibles los recursos creados, cualquier persona con coexión a Internet podrá beneficiarse del trabajo realizado. El "electro" quedará para su uso posterior por parte de todo el alumnado del centro, sin discriminación.</li>
+</ul>
+<p>Por su parte, los <strong>Retos del S. XXI</strong> abordados son:</p>
+<ul>
+<li>El desarrollo de <strong>estilos de vida saludable</strong> a partir de la comprensión del funcionaiento del organismo, gracias a los contenidos teóricos abordados como temática.</li>
+<li>A través del uso de las herramientas digitales, el alumnado estará <strong>aprovechando las oportunidades de todo tipo que ofrece la cultura en la era digital</strong> y empleándolas para un bien superior.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777989073608-8sn1z6ze9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Justificación e impacto esperado</h4>\n<p>La Situación de Aprendizaje surge de la <strong>necesidad del Departamento de Ciencias Naturales</strong> de tener una serie de recursos didácticos para el aprendizaje de diferentes nomenclaturas morfológicas, como partes de las células, del cuerpo humano, etcétera. Con la culminación de la misma, se espera que el alumnado no sólo haya trabajado las <strong>competencias</strong> correspondientes de ambas materias, sino también adquirido los <strong>conocimientos</strong> teóricos mencionados de una manera más entretenida y eficaz.</p>\n<h4>Relación con los ODS y Retos del S. XXI</h4>\n<p>Los <strong>Objetivos de Desarrollo Sostenible</strong> involucrados son:</p>\n<ul>\n<li><strong>ODS 3 - Salud y bienestar: </strong>El conocimiento de los contenidos teóricos de la materia de Biología está en línea con la consecución de una mejora en la salud.</li>\n<li><strong>ODS 4 - Educación de calidad</strong>: La elaboración de los recursos didácticos mejorará la calidad de la educación de quienes vengan detrás.</li>\n<li><strong>ODS 10 - Reducción de las desigualdades</strong>: Haciendo públicos y accesibles los recursos creados, cualquier persona con coexión a Internet podrá beneficiarse del trabajo realizado. El \"electro\" quedará para su uso posterior por parte de todo el alumnado del centro, sin discriminación.</li>\n</ul>\n<p>Por su parte, los <strong>Retos del S. XXI</strong> abordados son:</p>\n<ul>\n<li>El desarrollo de <strong>estilos de vida saludable</strong> a partir de la comprensión del funcionaiento del organismo, gracias a los contenidos teóricos abordados como temática.</li>\n<li>A través del uso de las herramientas digitales, el alumnado estará <strong>aprovechando las oportunidades de todo tipo que ofrece la cultura en la era digital</strong> y empleándolas para un bien superior.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosep6lr-ke8tj7zbl</odePageId>
+  <odeParentPageId>page-mosep6lr-2p43znwje</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosep6lr-ke8tj7zbl</odePageId>
+      <odeBlockId>block-1777991025435-h7nqxd9ov</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6lr-ke8tj7zbl</odePageId>
+          <odeBlockId>block-1777991025435-h7nqxd9ov</odeBlockId>
+          <odeIdeviceId>idevice-1777991025430-4kgvgz711</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>Saberes básicos involucrados</h3>
+<ul>
+<li><strong>Bloque A: proceso de resolución de problemas</strong>
+<ul>
+<li>Electricidad y electrónica básica: montaje de esquemas y circuitos físicos o simulados. Interpretación, cálculo diseño y aplicación en proyectos.</li>
+<li>Emprendimiento, resiliencias, perseverancia y creatividad para abordar los problemas desde una perspectiva interdisciplinar.</li>
+</ul>
+</li>
+<li><strong> Bloque B: Comunicación y difusión de ideas</strong>
+<ul>
+<li>Herraientas digitales para la elaboración, publicación y difusión de documentación técnica e información multimedia relativa a proyectos.</li>
+</ul>
+</li>
+<li><strong>Bloque C: Pensamiento computacional, programación y robótica</strong>
+<ul>
+<li>Algoritmia y diagramas de flujo</li>
+<li>Autoconfianza e iniciativa: el error, la reevaluación y la depuración de errores como parte del proceso de aprendizaje.</li>
+</ul>
+</li>
+<li><strong>Bloque D. Digitalización del entorno personal de aprendizaje</strong>
+<ul>
+<li>Herramientas y plataformas de aprendizaje: configuración, mantenimiento y uso crítico.</li>
+</ul>
+</li>
+</ul>
+<h4>Competencias y criterios</h4>
+<table border="1" style="width: 100%; background-color: #c2e0f4; border-color: #000000; height: 888px;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 36.1553%; height: 33px;"><strong>Competencias específicas</strong></td>
+<td style="width: 26.5951%;"><strong>Competencias clave (descriptores operativos / perfil de salida)</strong></td>
+<td style="width: 37.2495%; height: 33px;"><strong>Criterios de evaluación</strong></td>
+</tr>
+<tr style="height: 129px;">
+<td style="height: 282px; width: 36.1553%;" rowspan="2"><strong>TD.1  </strong>Buscar y seleccionar la información adecuada proveniente de diversas fuentes, de manera crítica y segura, aplicando procesos de investigación, métodos de análisis de productos y experimentando con herramientas de simulación, para definir problemas tecnológicos e iniciar procesos de creación de soluciones a partir de la información obtenida <br /></td>
+<td style="width: 26.5951%;" rowspan="2"><strong>CCL3, STEM2, CD1, CD4, CPSAA4, CE1</strong></td>
+<td style="width: 37.2495%; height: 129px;"><strong>TD.1.1 </strong>Definir problemas o necesidades planteadas, buscando y contrastando información procedente de diferentes fuentes de manera crítica, evaluando su fiabilidad y pertinencia</td>
+</tr>
+<tr style="height: 153px;">
+<td style="width: 37.2495%; height: 153px;"><strong>TD 1.3</strong> Adoptar medidas preventivas para la protección de los dispositivos, los datos y la salud personal, identificando problemas y riesgos relacionados con el uso de la tecnología y analizándolos de manera ética y crítica</td>
+</tr>
+<tr style="height: 153px;">
+<td style="height: 306px; width: 36.1553%;" rowspan="2"><strong>TD.2</strong> Abordar problemas tecnológicos con autonomía y actitud creativa, aplicando conocimientos interdisciplinares y trabajando de forma cooperativa y colaborativa, para diseñar y planificar soluciones a un problema o necesidad de forma eficaz, innovadora y sostenible</td>
+<td style="width: 26.5951%;" rowspan="2"><strong>CCL1, STEM1, STEM3, CD3, CPSAA3, CPSAA5, CE1, CE3</strong></td>
+<td style="width: 37.2495%; height: 153px;"><strong>TD 2.1</strong> Idear y diseñar soluciones eficaces, innovadoras y sostenibles a problemas definidos, aplicando conceptos, técnicas y procedimientos interdisciplinares, así como criterios de sostenibilidad con actitud emprendedora, perseverante y creativa</td>
+</tr>
+<tr style="height: 153px;">
+<td style="width: 37.2495%; height: 153px;"><strong>TD 2.2</strong> Identificar, seleccionar, planificar y organizar los materiales y herramientas, así como las tareas necesarias para la construcción de una solución a un problema planteado, trabajando individualmente o en grupo de manera cooperativa y colaborativa</td>
+</tr>
+<tr style="height: 201px;">
+<td style="width: 36.1553%; height: 201px;"><strong>TD.3 </strong>Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares utilizando operadores, sistemas tecnológicos y herramientas, teniendo en cuenta la planificación y el diseño previo, para construir o fabricar soluciones tecnológicas y sostenibles que den respuesta a necesidades en diferentes contextos</td>
+<td style="width: 26.5951%;"><strong>STEM2, STEM3, STEM5, CD5, CPSAA1, CE3, CCEC3</strong></td>
+<td style="width: 37.2495%; height: 201px;"><strong>TD 3.1</strong> Fabricar objetos o modelos mediante la manipulación y conformación de materiales, empleando herramientas y máquinas adecuadas, aplicando los fundamentos de estructuras, mecanismos, electricidad y electrónica y respetando las normas de seguridad y salud correspondientes</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 36.1553%; height: 33px;"><strong>TD.5 </strong>Desarrollar algoritmos y aplicaciones informáticas en distintos entornos, aplicando los principios del pensamiento computacional e incorporando las tecnologías emergentes, para crear soluciones a problemas concretos, automatizar procesos y aplicarlos en sistemas de control o en robótica</td>
+<td style="width: 26.5951%;"><strong>CP2, STEM1, STEM3, CD5, CPSAA5, CE3</strong></td>
+<td style="width: 37.2495%; height: 33px;"><strong>TD 5.2 </strong>Programar aplicaciones sencillas para distintos dispositivos (ordenadores, dispositivos móviles y otros) empleando los elementos de programación de manera apropiada y aplicando herramientas de edición, así como módulos de inteligencia artificial que añadan funcionalidades a la solución</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 36.1553%; height: 33px;"><strong>TD.6 </strong>Comprender los fundamentos del funcionamiento de los dispositivos y aplicaciones habituales de su entorno digital de aprendizaje, analizando sus componentes y funciones y ajustándolos a sus necesidades, para hacer un uso más eficiente y seguro de los mismos y para detectar y resolver problemas técnicos sencillos</td>
+<td style="width: 26.5951%;"><strong>CP2, STEM5, CD2, CD4, CD5, CPSAA4, CPSAA5</strong></td>
+<td style="width: 37.2495%; height: 33px;"><strong>TD 6.2</strong> Crear contenidos, elaborar materiales y difundirlos en distintas plataformas, configurando correctamente las herramientas digitales habituales del entorno de aprendizaje, ajustándolas a sus necesidades y respetando los derechos de autor y la etiqueta digital</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777991025430-4kgvgz711","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Saberes básicos involucrados</h3>\n<ul>\n<li><strong>Bloque A: proceso de resolución de problemas</strong>\n<ul>\n<li>Electricidad y electrónica básica: montaje de esquemas y circuitos físicos o simulados. Interpretación, cálculo diseño y aplicación en proyectos.</li>\n<li>Emprendimiento, resiliencias, perseverancia y creatividad para abordar los problemas desde una perspectiva interdisciplinar.</li>\n</ul>\n</li>\n<li><strong> Bloque B: Comunicación y difusión de ideas</strong>\n<ul>\n<li>Herraientas digitales para la elaboración, publicación y difusión de documentación técnica e información multimedia relativa a proyectos.</li>\n</ul>\n</li>\n<li><strong>Bloque C: Pensamiento computacional, programación y robótica</strong>\n<ul>\n<li>Algoritmia y diagramas de flujo</li>\n<li>Autoconfianza e iniciativa: el error, la reevaluación y la depuración de errores como parte del proceso de aprendizaje.</li>\n</ul>\n</li>\n<li><strong>Bloque D. Digitalización del entorno personal de aprendizaje</strong>\n<ul>\n<li>Herramientas y plataformas de aprendizaje: configuración, mantenimiento y uso crítico.</li>\n</ul>\n</li>\n</ul>\n<h4>Competencias y criterios</h4>\n<table border=\"1\" style=\"width: 100%; background-color: #c2e0f4; border-color: #000000; height: 888px;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 36.1553%; height: 33px;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 26.5951%;\"><strong>Competencias clave (descriptores operativos / perfil de salida)</strong></td>\n<td style=\"width: 37.2495%; height: 33px;\"><strong>Criterios de evaluación</strong></td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"height: 282px; width: 36.1553%;\" rowspan=\"2\"><strong>TD.1  </strong>Buscar y seleccionar la información adecuada proveniente de diversas fuentes, de manera crítica y segura, aplicando procesos de investigación, métodos de análisis de productos y experimentando con herramientas de simulación, para definir problemas tecnológicos e iniciar procesos de creación de soluciones a partir de la información obtenida <br /></td>\n<td style=\"width: 26.5951%;\" rowspan=\"2\"><strong>CCL3, STEM2, CD1, CD4, CPSAA4, CE1</strong></td>\n<td style=\"width: 37.2495%; height: 129px;\"><strong>TD.1.1 </strong>Definir problemas o necesidades planteadas, buscando y contrastando información procedente de diferentes fuentes de manera crítica, evaluando su fiabilidad y pertinencia</td>\n</tr>\n<tr style=\"height: 153px;\">\n<td style=\"width: 37.2495%; height: 153px;\"><strong>TD 1.3</strong> Adoptar medidas preventivas para la protección de los dispositivos, los datos y la salud personal, identificando problemas y riesgos relacionados con el uso de la tecnología y analizándolos de manera ética y crítica</td>\n</tr>\n<tr style=\"height: 153px;\">\n<td style=\"height: 306px; width: 36.1553%;\" rowspan=\"2\"><strong>TD.2</strong> Abordar problemas tecnológicos con autonomía y actitud creativa, aplicando conocimientos interdisciplinares y trabajando de forma cooperativa y colaborativa, para diseñar y planificar soluciones a un problema o necesidad de forma eficaz, innovadora y sostenible</td>\n<td style=\"width: 26.5951%;\" rowspan=\"2\"><strong>CCL1, STEM1, STEM3, CD3, CPSAA3, CPSAA5, CE1, CE3</strong></td>\n<td style=\"width: 37.2495%; height: 153px;\"><strong>TD 2.1</strong> Idear y diseñar soluciones eficaces, innovadoras y sostenibles a problemas definidos, aplicando conceptos, técnicas y procedimientos interdisciplinares, así como criterios de sostenibilidad con actitud emprendedora, perseverante y creativa</td>\n</tr>\n<tr style=\"height: 153px;\">\n<td style=\"width: 37.2495%; height: 153px;\"><strong>TD 2.2</strong> Identificar, seleccionar, planificar y organizar los materiales y herramientas, así como las tareas necesarias para la construcción de una solución a un problema planteado, trabajando individualmente o en grupo de manera cooperativa y colaborativa</td>\n</tr>\n<tr style=\"height: 201px;\">\n<td style=\"width: 36.1553%; height: 201px;\"><strong>TD.3 </strong>Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares utilizando operadores, sistemas tecnológicos y herramientas, teniendo en cuenta la planificación y el diseño previo, para construir o fabricar soluciones tecnológicas y sostenibles que den respuesta a necesidades en diferentes contextos</td>\n<td style=\"width: 26.5951%;\"><strong>STEM2, STEM3, STEM5, CD5, CPSAA1, CE3, CCEC3</strong></td>\n<td style=\"width: 37.2495%; height: 201px;\"><strong>TD 3.1</strong> Fabricar objetos o modelos mediante la manipulación y conformación de materiales, empleando herramientas y máquinas adecuadas, aplicando los fundamentos de estructuras, mecanismos, electricidad y electrónica y respetando las normas de seguridad y salud correspondientes</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 36.1553%; height: 33px;\"><strong>TD.5 </strong>Desarrollar algoritmos y aplicaciones informáticas en distintos entornos, aplicando los principios del pensamiento computacional e incorporando las tecnologías emergentes, para crear soluciones a problemas concretos, automatizar procesos y aplicarlos en sistemas de control o en robótica</td>\n<td style=\"width: 26.5951%;\"><strong>CP2, STEM1, STEM3, CD5, CPSAA5, CE3</strong></td>\n<td style=\"width: 37.2495%; height: 33px;\"><strong>TD 5.2 </strong>Programar aplicaciones sencillas para distintos dispositivos (ordenadores, dispositivos móviles y otros) empleando los elementos de programación de manera apropiada y aplicando herramientas de edición, así como módulos de inteligencia artificial que añadan funcionalidades a la solución</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 36.1553%; height: 33px;\"><strong>TD.6 </strong>Comprender los fundamentos del funcionamiento de los dispositivos y aplicaciones habituales de su entorno digital de aprendizaje, analizando sus componentes y funciones y ajustándolos a sus necesidades, para hacer un uso más eficiente y seguro de los mismos y para detectar y resolver problemas técnicos sencillos</td>\n<td style=\"width: 26.5951%;\"><strong>CP2, STEM5, CD2, CD4, CD5, CPSAA4, CPSAA5</strong></td>\n<td style=\"width: 37.2495%; height: 33px;\"><strong>TD 6.2</strong> Crear contenidos, elaborar materiales y difundirlos en distintas plataformas, configurando correctamente las herramientas digitales habituales del entorno de aprendizaje, ajustándolas a sus necesidades y respetando los derechos de autor y la etiqueta digital</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosep6lr-btsot8nnw</odePageId>
+  <odeParentPageId>page-mosep6lr-2p43znwje</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosep6lr-btsot8nnw</odePageId>
+      <odeBlockId>block-1777995197804-fjw2ft37n</odeBlockId>
+      <blockName>Aprendizaje Basado en Proyectos (ABP)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6lr-btsot8nnw</odePageId>
+          <odeBlockId>block-1777995197804-fjw2ft37n</odeBlockId>
+          <odeIdeviceId>idevice-1777995197801-k6jvamg3p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La metodología que se empleará a lo largo de toda esta Situación de Aprendizaje será el <strong>Aprendizaje Basado en Proyectos (ABP)</strong>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995197801-k6jvamg3p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La metodología que se empleará a lo largo de toda esta Situación de Aprendizaje será el <strong>Aprendizaje Basado en Proyectos (ABP)</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosep6lr-82jpehl1t</odePageId>
+  <odeParentPageId>page-mosep6lr-2p43znwje</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosep6lr-82jpehl1t</odePageId>
+      <odeBlockId>block-1777996729309-rllu7wnj1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6lr-82jpehl1t</odePageId>
+          <odeBlockId>block-1777996729309-rllu7wnj1</odeBlockId>
+          <odeIdeviceId>idevice-1777996729306-vmocevuov</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje contecta con el PLEI del centro.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996729306-vmocevuov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje contecta con el PLEI del centro.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosep6ls-qn7ynx4r3</odePageId>
+  <odeParentPageId>page-mosep6lr-2p43znwje</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosep6ls-qn7ynx4r3</odePageId>
+      <odeBlockId>block-1777996835575-t6t58larc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6ls-qn7ynx4r3</odePageId>
+          <odeBlockId>block-1777996835575-t6t58larc</odeBlockId>
+          <odeIdeviceId>idevice-1777996835572-mjrxvgphm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>No exiten actividades complementarias asociadas a esta SdA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996835572-mjrxvgphm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>No exiten actividades complementarias asociadas a esta SdA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosep6ls-6djybcncm</odePageId>
+  <odeParentPageId>page-mosep6lr-2p43znwje</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosep6ls-6djybcncm</odePageId>
+      <odeBlockId>block-1777997944964-r6uf8cxws</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosep6ls-6djybcncm</odePageId>
+          <odeBlockId>block-1777997944964-r6uf8cxws</odeBlockId>
+          <odeIdeviceId>idevice-1777997944961-yk8zzaqgc</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Legacy Project</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
